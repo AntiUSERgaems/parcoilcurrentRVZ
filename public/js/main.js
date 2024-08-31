@@ -135,65 +135,32 @@ var body = document.body;
 body.insertBefore(navbarDiv, body.firstChild);
 
 const texts = [
-  "Ewww Homework whats that",
-  "Rip 3kh0!",
-  "Now with a PR00000000000xy! ",
-  "The site to cure Total boredness ",
-  "A LOT OF GAMES!",
-  "shit",
-  "What is Google Sites?",
+  "Nothing But Something. -me.",
+  "Rare reel pull.",
+  "The Mercedes CLR GTR...",
+  "Spend Time Doing School Work. -absolutely fuping No-one.",
+  "A LOT BS!",
+  "Dont Shit In The Bathroom.",
+  "Check out the image of the day!",
   "No",
   "Yes",
-  "insert text here",
-  "Placeholder text at its finest!",
+  "Erorr: 303. to much BullShit",
+  "This Aint Free :(",
   "Unblocked!",
-  "Welcome To Lunaar!",
-  "Did you know we are open source? Fork US!",
-  'Join the discord: <a href="https://dsc.gg/parcoil">https://dsc.gg/parcoil</a>',
+  "Welcome To RVZ",
+  "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough. -Oprah Winfrey",
   "404: Productivity not found.",
-  "Snappier is bad at american truck simulator",
+  "Use AI.",
   "Ctrl + Alt + Delete your worries.",
-  "Oops! I broke it again. - doge",
-  "Gas Gas Gas",
-  "Ctrl+Z is my favorite key. - doge",
-  "Join us on Discord: discord.gg/fbjT5wG4za",
-  "Daniel gets no girls",
-  "Pineapple Cow",
+  "Oh, shit, oh shit. its shit, shit. -fart",
+  "The Green Handle is what you put in your 2004 nissan murano.",
+  "Ctrl+Z is my favorite key. - me",
+  "a",
+  "I KNOW ?. -Travis Scott.",
+  "Wait til next year, we get NEW LAPTOPS!",
   "chromebooks suck",
-  "Lorem ipsum",
-  "404: Brain not found.",
-  "technoblade never dies",
-  "whats up brother",
-  "about:blank on top",
-  "Doge does not understand why this does not white",
-  "cats are better",
-  "thx sandwich",
-  "Yup this is Julian.",
-  "they not like us",
-  "What's up brother!",
-  "Do not insert text here",
-  "They not like us",
-  "1 + 1 = 11",
-  "LUNAARR",
-  "My CPU is 156 degrees :)",
-  "Spicy Nacho Doritos are good",
-  "Yo so games are cool",
-  "Aiden does questionable things...",
-  "Bonelab = Garys mod",
-  "Elden Ring on top - wavy ",
-  'Join our Discord: <a href="https://dsc.gg/parcoil">https://dsc.gg/parcoil</a>',
-  "better than interstellar",
-  "thats tuff",
-  "NodeJS on top!",
-  "Aiden Has a foot fetish",
-  "Aiden loves Megadeth and Pantera",
-  "Or what!",
-  "Geeeeeeeeeeeeeetar!!!!!!",
-  "Powerade Sucks!",
-  "Do not insert text here",
-  "Sandwich Loves Metallica",
-  "Oh yeah or whatever",
-  "the name lunaar is a tribute to my cat luna that has sadly passed away - doge",
+  "you found a rare word",
+  "submit your quotes to somewhere?",
 ];
 
 function getRandomIndex(max) {
@@ -295,13 +262,6 @@ window.addEventListener("load", function () {
 hehe.crossOrigin = "anonymous";
 document.body.appendChild(hehe);
 const art = `
-
-\x1b[35m██╗     ██╗   ██╗███╗   ██╗ █████╗  █████╗ ██████╗     ██╗   ██╗██╗  ██╗
-\x1b[35m██║     ██║   ██║████╗  ██║██╔══██╗██╔══██╗██╔══██╗    ██║   ██║██║  ██║
-\x1b[35m██║     ██║   ██║██╔██╗ ██║███████║███████║██████╔╝    ██║   ██║███████║
-\x1b[35m██║     ██║   ██║██║╚██╗██║██╔══██║██╔══██║██╔══██╗    ╚██╗ ██╔╝╚════██║
-\x1b[35m███████╗╚██████╔╝██║ ╚████║██║  ██║██║  ██║██║  ██║     ╚████╔╝      ██║
-\x1b[35m╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝      ╚═══╝       ╚═╝
 
 
 `;
