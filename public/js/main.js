@@ -238,8 +238,6 @@ function updateCustomTitle() {
     document.querySelector("#favicon").getAttribute("href")
   );
 }
-hehe.src =
-  "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1565760898646999";
 
 function updateCustomFavicon() {
   const customFavicon = document.getElementById("customFavicon").value;
