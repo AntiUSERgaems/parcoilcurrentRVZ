@@ -119,7 +119,7 @@ var navbarHTML = `
                     <a href="/./apps"><i class="ti ti-apps">&nbsp;</i>Apps</a>
                     <a href="/./settings"><i class="ti ti-settings">&nbsp;</i>Settings</a>
                     <a href="/./extra"><i class="ti ti-menu-2">&nbsp;</i>Extras</a>
-                    <a href="https://www.nature.scot/sites/default/files/styles/max_1300x1300/public/2019-03/Sandeels%20%C2%A9%20Keith%20Mutch.jpg?itok=UEprdIw2"><i class="ti ti-brand-discord">&nbsp;</i>ImageOfTheDay</a>
+                    <a href="https://www.google.com/search?q=flat+tire+image"><i class="ti ti-brand-discord">&nbsp;</i>ImageOfTheDay</a>
                     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css">
 
             </div>
@@ -156,11 +156,11 @@ const texts = [
   "The Green Handle is what you put in your 2004 nissan murano.",
   "Ctrl+Z is my favorite key. - me",
   "a",
-  "I KNOW ?. -Travis Scott.",
   "Wait til next year, we get NEW LAPTOPS!",
   "chromebooks suck",
   "you found a rare word",
   "submit your quotes to somewhere?",
+  "Parking Lot by mustard",
 ];
 
 function getRandomIndex(max) {
