@@ -161,6 +161,15 @@ const texts = [
   "you found a rare word",
   "submit your quotes to somewhere?",
   "Parking Lot by mustard",
+  "gurnik chatwell is better than cool",
+  "Mrs Henrys board is haunted by a ''ghost''", 
+  "ads are part of the site, but not part of the games. deal with it :)",
+  "kobe cannot focus on anything other than his weird 'cartons'",
+  "it is not about if you fall, its about how you get back up, -baedin chimbers",
+  "1v1lol is like fortnite, BRING YOUR MOUSE!",
+  "when you fall in slope you die, but when YOU as yourself fall. you get back up.",
+  "game requests are not ran by be, SPAM THEM!",
+  "No problem! Here's the information about the Mercedes CLR GTR: The Mercedes CLR GTR is a remarkable racing car celebrated for its outstanding performance and sleek design. Powered by a potent 6.0-liter V12 engine, it delivers over 600 horsepower.Acceleration from 0 to 100 km/h takes approximately 3.7 seconds, with a remarkable top speed surprising 320 km/h.🥇Incorporating adventure aerodynamic features and cutting-edge stability technologies, the CLR GTR ensures exceptional stability and control, particularly during high-speed maneuvers. 💨Originally priced at around $1.5 million, the Mercedes CLR GTR is considered one of the most exclusive and prestigious racing cars ever produced. 💰Its limited production run of just five units adds to its rarity, making it highly sought after by racing enthusiasts and collectors worldwide. 🌎",
 ];
 
 function getRandomIndex(max) {
